@@ -1,0 +1,23 @@
+.jumbotron .container .display-4{
+	font-size: 2.5rem;
+}
+.jumbotron .container .lead{
+	font-size: 1.1rem;
+}
+
+section{
+	min-height: 420px;
+}
+/*.about{
+	padding: 100px;
+}
+.galery{
+	padding: 100px;
+}*/
+.bg-dark .container p {
+	color: white;
+}
+
+.footer  {
+	height: 70px;
+}
